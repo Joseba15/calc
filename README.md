@@ -1,4 +1,4 @@
-##Calc
+## Calc
 >Este proyecto nos permite hacer operaciones aritmeticas con numeros decimales y enteros
 >Se compone de los siguientes paquetes:
 
