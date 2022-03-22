@@ -51,6 +51,11 @@ public class Aritmetica {
 		return suma(n1, sustraer);
 	}
 	
+	/**
+	 * Este metodo permite calcular la media a partir de la cantidad de numeros que le introducimos por parámetro:
+	 * @param objs, la cantidad que de numeros que vamos a hacer la media
+	 * @return la media de los numeros 
+	 */
 	
 	
 	public Numero calcularMedia(Object[] objs) {
